@@ -8,7 +8,7 @@
 
 Portafolio Web Personal
 
-https://workshop-myportfolio.vercel.app/
+https://jdanielcalle.netlify.app/
 
 ---
 
