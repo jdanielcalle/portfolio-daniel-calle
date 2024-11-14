@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Gestión de Gimnasio",
+      "imageSrc": "projects/project.png",
+      "description": "En este proyecto se usó una arquitectura de microservicios.",
+      "skills": ["Java", "Spring", "MySQL", "MongoDB"],
+      "demo": "https://github.com/jdanielcalle/proyecto-zeus",
+      "source": "https://github.com/jdanielcalle/proyecto-zeus"
+    },
+    {
+      "title": "Gestión de Estudiantes",
+      "imageSrc": "projects/project.png",
+      "description": "En este proyecto se realiza un CRUD con operaciones básicas.",
+      "skills": ["Thymeleaf", "Java", "Spring", "Oracle"],
+      "demo": "https://github.com/jdanielcalle/crud-spring-boot",
+      "source": "https://github.com/jdanielcalle/crud-spring-boot"
+    }
+  ]

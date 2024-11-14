@@ -1,0 +1,18 @@
+[
+    {
+      "role": "Aprendiz IT",
+      "organisation": "Globant",
+      "startDate": "Enero, 2025",
+      "endDate": "Junio, 2025",
+      "experiences": ["Usé Java y Spring Boot", "Microservicios"],
+      "imageSrc": "history/globant.png"
+    },
+    {
+      "role": "Semillero IT",
+      "organisation": "SICEI",
+      "startDate": "Febrero, 2023",
+      "endDate": "Junio, 2023",
+      "experiences": ["Usé Python y Django", "Arquitectura N Capas"],
+      "imageSrc": "history/sicei.png"
+    }
+  ]

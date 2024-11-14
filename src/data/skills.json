@@ -1,0 +1,30 @@
+[
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
+    },
+    {
+        "title": "Spring Boot",
+        "imageSrc": "skills/springboot.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "GCP",
+        "imageSrc": "skills/gcp.png"
+    }
+  ]
